@@ -5,8 +5,8 @@ ROS-enabled **OpenMANIPULATOR-X** (RM-X52-TNM) is a full open robot platform con
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/40741680/130143968-8e1f9801-636c-49b1-94ca-906b396c0eb3.png" width="450" height="450">
-<img src="https://user-images.githubusercontent.com/40741680/130144103-5293a84c-6d58-49c2-933e-5206e2bfc069.png" width="450" height="450">
+<img src="https://user-images.githubusercontent.com/40741680/130143968-8e1f9801-636c-49b1-94ca-906b396c0eb3.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/40741680/130144103-5293a84c-6d58-49c2-933e-5206e2bfc069.png" width="400" height="400">
 
 </p>
 
