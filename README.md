@@ -28,6 +28,6 @@ ROS-enabled **OpenMANIPULATOR-X** (RM-X52-TNM) is a full open robot platform con
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/130146204-761650e8-6685-4f43-83b2-b5e99dd2f56e.png" width="330" height="185">
 </p>
-
+**You could find more detailed information in the [*`Report.pdf`*](https://github.com/mirhnius/OpenmanipulatorX-Robot/blob/main/Report.pdf) file**
 
 
