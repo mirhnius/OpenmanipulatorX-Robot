@@ -1,0 +1,8 @@
+clear all
+clc
+
+main_4567;
+
+th
+
+[t, p] = ode23s(@(t,p) odefun(t,p,th,dth), T, [0.274;0;0.2048]);
